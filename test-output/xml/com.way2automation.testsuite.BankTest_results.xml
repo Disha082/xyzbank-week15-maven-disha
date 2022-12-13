@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Bank Test"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="7.988">
+  <properties />
+  
+  
+            <testcase name="customerShouldWithdrawMoneySuccessfully" time="4.505" classname="com.way2automation.testsuite.BankTest" />
+                <testcase name="customerShouldDepositMoneySuccessfully" time="1.819" classname="com.way2automation.testsuite.BankTest" />
+                <testcase name="customerShouldLoginAndLogoutSuccessfully" time="1.664" classname="com.way2automation.testsuite.BankTest" />
+      
+</testsuite>
